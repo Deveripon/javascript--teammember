@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    background-color: #f5cac2;
+}
+
+.color {
+    color: #fae5df #f5cac2 #ed7966 #303179 #141850
+}
+
+.heading {
+    color: #ed7966;
+    margin: 10px;
+    padding: 0px
+}
+
+.separator {
+    height: 3px;
+    width: 70px;
+    background: #ed7966;
+    text-align: center;
+    margin: 10px auto;
+}
+
+/* .card {
+    min-width: 200px;
+} */
+
+.team-pic {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.card .name {
+    color: #141850;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card .skill {
+    color: #303179;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.card .bio {
+    color: #303179;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 10px;
+}
